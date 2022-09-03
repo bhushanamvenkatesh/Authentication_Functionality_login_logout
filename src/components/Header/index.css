@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.header-links {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.each-link {
+  margin: 15px;
+}
